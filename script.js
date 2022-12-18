@@ -1,10 +1,10 @@
 const quizData = [
 {
-        question : "How old is Gudeta?",
-            a:"22",
-            b:"23",
-            c:"24",
-            d:"30",
+        question : "Grand Central Terminal, Park Avenue, New York is the world's",
+            a:"largest railway station",
+            b:"higthest railway station",
+            c:"longest railway station",
+            d:"none of the above",
             correct: "a" 
 },
 {
@@ -17,20 +17,20 @@ const quizData = [
             correct: "c"
 },
 {
-        question: "who is the name of the girl you want to marry",
-            a: "fasika",
-            b: "angelina",
-            c: "Rodas",
-            d: "unknown",
-            correct:"d"
+        question: "etormology is the science that studies?",
+            a: "behaviour of human beings",
+            b: "insects",
+            c: "the origin and history of technical and scientific terms",
+            d: "the formation of rocks",
+            correct:"b"
 },
  {
-            question: "What kind of person Gudeta is?",
-            a: "Humble",
-            b: "Kind",
-            c: "Loving",
-            d: "lovable",
-            correct: "d"
+            question: "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of?",
+            a: "Asia",
+            b: "Africa",
+            c: "Europe",
+            d: "Australia",
+            correct: "b"
   },  
  {
            question : "Where were Gudeta Born?",
@@ -42,22 +42,22 @@ const quizData = [
             correct: "a"
 },
  {
-    question : "when were Gudeta Born?",
+    question : "for which of the following disciplines is Nobel proze awarded?",
  
-         a: "1992",
-         b: "2000",
-         c: "2010",
-         d: "2022",
-         correct: "b"
+         a: "physics and chemistry",
+         b: "psychology or Medicine",
+         c: "Literature,Peace and Economics",
+         d: "All of the above",
+         correct:"d"
  },
  {
-    question : "Which word do perfectly describe Gudeta",
+    question : "Hitler party Which came i power in 1933 is known as? ",
 
-     a: "genius",
-     b: "lover",
-     c: "spectacular",
-     d: "amazing",
-     correct: "a"
+     a: "Labour party",
+     b: "Nazi party",
+     c: "Ku-Klux-Klan",
+     d: "Democratic Party",
+     correct: "b"
 },
 {
     question : "Who is the president of America?",
@@ -86,7 +86,7 @@ const quizData = [
      d: "unknown",
      correct: "a"
 }, {
-    question : "qho is the priminister of israel?",
+    question : "Who is the priminister of israel?",
      a: "tayer erdogan",
      b: "yair lapid",
      c: "yusuf erdogan",
