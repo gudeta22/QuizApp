@@ -42,7 +42,7 @@ const quizData = [
             correct: "a"
 },
  {
-    question : "for which of the following disciplines is Nobel proze awarded?",
+    question : "for which of the following disciplines is Nobel Prixe awarded?",
  
          a: "physics and chemistry",
          b: "psychology or Medicine",
